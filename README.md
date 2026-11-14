@@ -57,13 +57,14 @@ I like tools that run locally, ship without a backend when they can, and are eas
 | --- | --- |
 | [docker-playground](https://github.com/aimanamri/docker-playground) | A local Docker playground for SQL and PySpark: MySQL, PostgreSQL, phpMyAdmin, pgAdmin and Jupyter. |
 | [yellow-taxi-trips-etl-data-engineering-project](https://github.com/aimanamri/yellow-taxi-trips-etl-data-engineering-project) | An ETL data engineering project on NYC yellow taxi trip data. |
+| [github-actions-commitizen-reference](https://github.com/aimanamri/github-actions-commitizen-reference) | Automated versioning with Commitizen and a bump workflow on GitHub Actions. |
+| [COVID-19-Analysis](https://github.com/aimanamri/COVID-19-Analysis) | Daily-updated Malaysia and Japan COVID-19 data with notebooks. |
+| [streamlit-app](https://github.com/aimanamri/streamlit-app) | A few small data apps built with Streamlit. |
+| [claude-architect-exam-prep](https://github.com/aimanamri/claude-architect-exam-prep) | Study notes and practice exams for the Claude Certified Architect certification (work in progress). |
 | [claude-dev-exam-prep](https://github.com/aimanamri/claude-dev-exam-prep) | Study material for a Claude developer exam. |
 | [HabTracker](https://github.com/aimanamri/HabTracker) | A habit tracker in TypeScript. |
-| [habbo-player-info](https://github.com/aimanamri/habbo-player-info) | Reads player attributes from Habbo Hotel's public API. |
 | [canva-button-hider-chrome-extension](https://github.com/aimanamri/canva-button-hider-chrome-extension) | A Chrome extension that hides the "Send to teacher" button on Canva Education. |
-| [streamlit-app](https://github.com/aimanamri/streamlit-app) | A few small data apps built with Streamlit. |
-| [COVID-19-Analysis](https://github.com/aimanamri/COVID-19-Analysis) | Daily-updated Malaysia and Japan COVID-19 data with notebooks. |
-| [github-actions-commitizen-reference](https://github.com/aimanamri/github-actions-commitizen-reference) | Automated versioning with Commitizen and a bump workflow on GitHub Actions. |
+| [habbo-player-info](https://github.com/aimanamri/habbo-player-info) | Reads player attributes from Habbo Hotel's public API. |
 
 <details>
 <summary>Earlier practice repos</summary>
