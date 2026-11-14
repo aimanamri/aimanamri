@@ -48,6 +48,7 @@ I like tools that run locally, ship without a backend when they can, and are eas
 <p><strong>Hadoop · Spark · Shell · Linux</strong></p>
 </td>
 <td width="50%" valign="top">
+<picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/mech-still.png"><img src="assets/mech.gif" width="100%" alt="Pixel art engineering bench: a crank and piston drive a flywheel, a spring and mass bounce, a pressure gauge swings and a projectile flies, while an engineer in a hard hat takes notes."></picture>
 <h3><a href="https://github.com/aimanamri/mechanicalEngineering">mechanicalEngineering</a></h3>
 <p>Engineering calculations in Python: Mohr's circle, von Mises stress, beam SFD/BMD, Rankine and refrigeration cycles, damped vibration and numerical methods, as Jupyter notebooks.</p>
 <p><strong>Python · Jupyter · NumPy</strong></p>
@@ -80,61 +81,52 @@ I like tools that run locally, ship without a backend when they can, and are eas
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="assets/toolkit/python.svg" height="40" alt="Python">
+  <img src="assets/toolkit/javascript.svg" height="40" alt="JavaScript">
+  <img src="assets/toolkit/typescript.svg" height="40" alt="TypeScript">
+  <img src="assets/toolkit/gnubash.svg" height="40" alt="Bash">
+  <img src="assets/toolkit/php.svg" height="40" alt="PHP">
+  <img src="assets/toolkit/fortran.svg" height="40" alt="Fortran">
 </p>
 
 <p align="center"><strong>Web</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
-  <img src="https://img.shields.io/badge/Chrome_Extensions-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Chrome Extensions">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="assets/toolkit/html5.svg" height="40" alt="HTML5">
+  <img src="assets/toolkit/css3.svg" height="40" alt="CSS3">
+  <img src="assets/toolkit/react.svg" height="40" alt="React">
+  <img src="assets/toolkit/vite.svg" height="40" alt="Vite">
+  <img src="assets/toolkit/nodedotjs.svg" height="40" alt="Node.js">
+  <img src="assets/toolkit/npm.svg" height="40" alt="npm">
+  <img src="assets/toolkit/streamlit.svg" height="40" alt="Streamlit">
+  <img src="assets/toolkit/googlechrome.svg" height="40" alt="Chrome">
+  <img src="assets/toolkit/googleappsscript.svg" height="40" alt="Apps Script">
+  <img src="assets/toolkit/hugo.svg" height="40" alt="Hugo">
+  <img src="assets/toolkit/canva.svg" height="40" alt="Canva">
 </p>
 
 <p align="center"><strong>Data &amp; infrastructure</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Spark">
-  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" alt="Hadoop">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="assets/toolkit/postgresql.svg" height="40" alt="PostgreSQL">
+  <img src="assets/toolkit/mysql.svg" height="40" alt="MySQL">
+  <img src="assets/toolkit/apachespark.svg" height="40" alt="Spark">
+  <img src="assets/toolkit/apachehadoop.svg" height="40" alt="Hadoop">
+  <img src="assets/toolkit/jupyter.svg" height="40" alt="Jupyter">
+  <img src="assets/toolkit/pandas.svg" height="40" alt="Pandas">
+  <img src="assets/toolkit/numpy.svg" height="40" alt="NumPy">
+  <img src="assets/toolkit/docker.svg" height="40" alt="Docker">
+  <img src="assets/toolkit/linux.svg" height="40" alt="Linux">
+  <img src="assets/toolkit/raspberrypi.svg" height="40" alt="Raspberry Pi">
+  <img src="assets/toolkit/pihole.svg" height="40" alt="Pi-hole">
+  <img src="assets/toolkit/apache.svg" height="40" alt="Apache">
 </p>
 
 <p align="center"><strong>Workflow &amp; AI tooling</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions">
-</p>
-
-<p align="center"><strong>Also in the toolbox</strong></p>
-<p align="center">
-  ![Google Apps Script](https://img.shields.io/badge/google%20apps%20script-%234285F4.svg?style=plastic&logo=google-apps-script&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white)
-  ![Hugo](https://img.shields.io/badge/hugo-%23FF4088.svg?style=plastic&logo=hugo&logoColor=white)
-  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
-  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
-  ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white)
-  ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white)
-  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-  ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white)
-  ![Fortran](https://img.shields.io/badge/Fortran-%23734F96.svg?style=plastic&logo=fortran&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
-  ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white)
-  ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white)
-  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black)
+  <img src="assets/toolkit/claude.svg" height="40" alt="Claude Code">
+  <img src="assets/toolkit/git.svg" height="40" alt="Git">
+  <img src="assets/toolkit/github.svg" height="40" alt="GitHub">
+  <img src="assets/toolkit/githubactions.svg" height="40" alt="GitHub Actions">
+  <img src="assets/toolkit/latex.svg" height="40" alt="LaTeX">
 </p>
 
 ## GitHub stats

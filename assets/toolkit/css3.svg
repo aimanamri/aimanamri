@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="40" viewBox="0 0 101 40" role="img" aria-label="CSS3">
+<title>CSS3</title>
+<defs><clipPath id="r"><rect x="1" y="1" width="99" height="38" rx="11"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="101" height="40" fill="#0e2130"/><rect width="40" height="40" fill="#0e1822"/></g>
+<rect x="1" y="1" width="99" height="38" rx="11" fill="none" stroke="#11466e" stroke-width="1.5"/>
+<path d="M40 6v28" stroke="#11466e" stroke-opacity=".5"/>
+<g transform="translate(10 10) scale(.8333)" fill="#1572B6"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.565-2.438L1.5 0zm17.09 4.413L5.41 4.41l.213 2.622 10.125.002-.255 2.716h-6.64l.24 2.573h6.182l-.366 3.523-2.91.804-2.956-.81-.188-2.11h-2.61l.29 3.855L12 19.288l5.373-1.53L18.59 4.414z"/></g>
+<text x="54" y="25" font-family="Verdana,'DejaVu Sans',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".6" fill="#a1c7e2" textLength="33" lengthAdjust="spacingAndGlyphs">CSS3</text>
+</svg>

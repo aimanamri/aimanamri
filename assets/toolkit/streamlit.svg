@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="142" height="40" viewBox="0 0 142 40" role="img" aria-label="Streamlit">
+<title>Streamlit</title>
+<defs><clipPath id="r"><rect x="1" y="1" width="140" height="38" rx="11"/></clipPath></defs>
+<g clip-path="url(#r)"><rect width="142" height="40" fill="#341a1f"/><rect width="40" height="40" fill="#1e151b"/></g>
+<rect x="1" y="1" width="140" height="38" rx="11" fill="none" stroke="#923134" stroke-width="1.5"/>
+<path d="M40 6v28" stroke="#923134" stroke-opacity=".5"/>
+<g transform="translate(10 10) scale(.8333)" fill="#FF4B4B"><path d="M16.673 11.32l6.862-3.618c.233-.136.554.12.442.387L20.463 17.1zm-8.556-.229l3.473-5.187c.203-.328.578-.316.793-.028l7.886 11.75zm-3.375 7.25c-.28 0-.835-.284-.993-.716l-3.72-9.46c-.118-.331.139-.614.48-.464l19.474 10.306c-.149.147-.453.337-.72.334z"/></g>
+<text x="54" y="25" font-family="Verdana,'DejaVu Sans',Arial,sans-serif" font-size="11" font-weight="700" letter-spacing=".6" fill="#ffb7b7" textLength="74" lengthAdjust="spacingAndGlyphs">STREAMLIT</text>
+</svg>
