@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="36" viewBox="0 0 158 36" role="img" aria-label="Stack Overflow" shape-rendering="crispEdges">
+<title>Stack Overflow</title>
+<polygon points="3,0 155,0 155,1 157,1 157,3 158,3 158,33 157,33 157,35 155,35 155,36 3,36 3,35 1,35 1,33 0,33 0,3 1,3 1,1 3,1" fill="#c66a21"/>
+<polygon points="4,2 154,2 154,3 155,3 155,4 156,4 156,32 155,32 155,33 154,33 154,34 4,34 4,33 3,33 3,32 2,32 2,4 3,4 3,3 4,3" fill="#2d2119"/>
+<g transform="translate(16 10) scale(.6667)" fill="#F48024"><path d="M15.725 0l-1.72 1.277 6.39 8.588 1.716-1.277L15.725 0zm-3.94 3.418l-1.369 1.644 8.225 6.85 1.369-1.644-8.225-6.85zm-3.15 4.465l-.905 1.94 9.702 4.517.904-1.94-9.701-4.517zm-1.85 4.86l-.44 2.093 10.473 2.201.44-2.092-10.473-2.203zM1.89 15.47V24h19.19v-8.53h-2.133v6.397H4.021v-6.396H1.89zm4.265 2.133v2.13h10.66v-2.13H6.154Z"/></g>
+<text x="40" y="23" font-family="Verdana,'DejaVu Sans',Arial,sans-serif" font-size="12" font-weight="700" fill="#fcd9bd" shape-rendering="auto" textLength="106" lengthAdjust="spacingAndGlyphs">Stack Overflow</text>
+</svg>

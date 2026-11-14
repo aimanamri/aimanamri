@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="90" height="36" viewBox="0 0 90 36" role="img" aria-label="Stats" shape-rendering="crispEdges">
+<title>Stats</title>
+<polygon points="3,0 87,0 87,1 89,1 89,3 90,3 90,33 89,33 89,35 87,35 87,36 3,36 3,35 1,35 1,33 0,33 0,3 1,3 1,1 3,1" fill="#65b077"/>
+<polygon points="4,2 86,2 86,3 87,3 87,4 88,4 88,32 87,32 87,33 86,33 86,34 4,34 4,33 3,33 3,32 2,32 2,4 3,4 3,3 4,3" fill="#1c2d28"/>
+<rect x="18" y="14" width="8" height="8" fill="#7BD88F"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="40" y="23" font-family="Verdana,'DejaVu Sans',Arial,sans-serif" font-size="12" font-weight="700" fill="#d7f3dd" shape-rendering="auto" textLength="38" lengthAdjust="spacingAndGlyphs">Stats</text>
+</svg>

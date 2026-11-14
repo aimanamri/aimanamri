@@ -6,7 +6,7 @@
 #   bash art/build.sh                                              # fetches Pixelbolt into art/.pixelbolt
 #   PIXELBOLT=/path/to/Pixelbolt/bin/pixelbolt.js bash art/build.sh   # or use a checkout you already have
 #
-# Each generator (logo, factory, data, kb, mech) writes a Pixelbolt recipe to art/out/ (gitignored); Pixelbolt then
+# Each generator (hero, factory, data, kb, mech) writes a Pixelbolt recipe to art/out/ (gitignored); Pixelbolt then
 # renders it to a looping GIF plus a still frame that the README shows when the reader prefers reduced motion.
 set -euo pipefail
 ART="$(cd "$(dirname "$0")" && pwd)"
@@ -30,11 +30,12 @@ fi
 
 PY="${PYTHON:-python3}"
 "$PY" "$ART/toolkit.py"   # toolkit pills -> assets/toolkit/*.svg
+"$PY" "$ART/buttons.py"   # header buttons -> assets/buttons/*.svg
 rm -rf "$OUT"; mkdir -p "$OUT" "$ASSETS"
 export OUT
 
 # name:scale  (logo is wide, so it gets a smaller scale)
-for spec in logo:4 factory:4 data:4 kb:4 mech:4; do
+for spec in hero:3 factory:4 data:4 kb:4 mech:4; do
   name="${spec%%:*}"; scale="${spec##*:}"
   (cd "$ART" && "$PY" "$name.py")
   node "$PIXELBOLT" gif "$OUT/$name.json" --out "$ASSETS/$name.gif" --scale "$scale" --force >/dev/null

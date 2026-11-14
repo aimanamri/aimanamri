@@ -1,24 +1,19 @@
-<p align="center"><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/logo-still.png"><img src="assets/logo.gif" width="480" alt="aiman amri: tools, data, AI. Pixel art of a developer in a teal beanie."></picture></p>
-
 <p align="center">
-  <strong>Developer based in Kuala Lumpur, Malaysia</strong><br>
-  I build developer tools, data pipelines and small web apps, and I work with Claude Code every day.
+  <picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-still.png"><img src="assets/hero.gif" width="600" alt="aiman amri, a developer in Kuala Lumpur, Malaysia. Builds developer tools, wrangles data pipelines, ships small web apps and works with Claude Code. Now: Google Apps Script automation. Learning: prompt and context engineering."></picture>
 </p>
 
 <p align="center">
-  <a href="https://aimanuddin.com"><img src="https://img.shields.io/badge/Website-aimanuddin.com-111827?style=for-the-badge&logo=safari&logoColor=white" alt="Website"></a>
-  <a href="https://github.com/aimanamri?tab=repositories"><img src="https://img.shields.io/badge/All_repositories-24-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"></a>
+  <a href="#featured-projects"><img src="assets/buttons/projects.svg" height="36" alt="Projects"></a>
+  <a href="#toolkit"><img src="assets/buttons/toolkit.svg" height="36" alt="Toolkit"></a>
+  <a href="#github-stats"><img src="assets/buttons/stats.svg" height="36" alt="Stats"></a>
 </p>
 
 <p align="center">
-🔭 Currently building automation workflows for daily work with Google Apps Script.<br>
-🌱 Currently learning prompt and context engineering.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/aiman-amri"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://stackoverflow.com/users/15734917"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"></a>
-  <a href="https://www.kaggle.com/aimanamri"><img src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white" alt="Kaggle"></a>
+  <a href="https://github.com/aimanamri?tab=repositories"><img src="assets/buttons/repos.svg" height="36" alt="All repositories"></a>
+  <a href="https://aimanuddin.com"><img src="assets/buttons/website.svg" height="36" alt="aimanuddin.com"></a>
+  <a href="https://linkedin.com/in/aiman-amri"><img src="assets/buttons/linkedin.svg" height="36" alt="LinkedIn"></a>
+  <a href="https://stackoverflow.com/users/15734917"><img src="assets/buttons/stackoverflow.svg" height="36" alt="Stack Overflow"></a>
+  <a href="https://www.kaggle.com/aimanamri"><img src="assets/buttons/kaggle.svg" height="36" alt="Kaggle"></a>
 </p>
 
 I like tools that run locally, ship without a backend when they can, and are easy to self-host. Most of what's below is a browser app, a small Docker setup or a data project I built to learn something properly. I'm comfortable in JavaScript and Python, and I'm still growing in data engineering and AI tooling.

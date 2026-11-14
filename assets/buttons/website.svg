@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="158" height="36" viewBox="0 0 158 36" role="img" aria-label="aimanuddin.com" shape-rendering="crispEdges">
+<title>aimanuddin.com</title>
+<polygon points="3,0 155,0 155,1 157,1 157,3 158,3 158,33 157,33 157,35 155,35 155,36 3,36 3,35 1,35 1,33 0,33 0,3 1,3 1,1 3,1" fill="#c37235"/>
+<polygon points="4,2 154,2 154,3 155,3 155,4 156,4 156,32 155,32 155,33 154,33 154,34 4,34 4,33 3,33 3,32 2,32 2,4 3,4 3,3 4,3" fill="#2d221c"/>
+<rect x="18" y="14" width="8" height="8" fill="#F08A3C"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="40" y="23" font-family="Verdana,'DejaVu Sans',Arial,sans-serif" font-size="12" font-weight="700" fill="#fadcc4" shape-rendering="auto" textLength="106" lengthAdjust="spacingAndGlyphs">aimanuddin.com</text>
+</svg>
