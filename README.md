@@ -63,7 +63,7 @@ I like tools that run locally, ship without a backend when they can, and are eas
 | [canva-button-hider-chrome-extension](https://github.com/aimanamri/canva-button-hider-chrome-extension) | A Chrome extension that hides the "Send to teacher" button on Canva Education. |
 | [streamlit-app](https://github.com/aimanamri/streamlit-app) | A few small data apps built with Streamlit. |
 | [COVID-19-Analysis](https://github.com/aimanamri/COVID-19-Analysis) | Daily-updated Malaysia and Japan COVID-19 data with notebooks. |
-| [git-action-test-automated_workflow](https://github.com/aimanamri/git-action-test-automated_workflow) | Automated versioning with Commitizen and a bump workflow on GitHub Actions. |
+| [github-actions-commitizen-reference](https://github.com/aimanamri/github-actions-commitizen-reference) | Automated versioning with Commitizen and a bump workflow on GitHub Actions. |
 
 <details>
 <summary>Earlier practice repos</summary>
