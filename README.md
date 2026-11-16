@@ -55,6 +55,7 @@ I like tools that run locally, ship without a backend when they can, and are eas
 
 | Project | What it is |
 | --- | --- |
+| [claude-code-themes](https://github.com/aimanamri/claude-code-themes) | A Claude Code plugin with animated pixel-art looks for the Claude desktop and mobile apps: four scenes of Malaysia (Petronas KL, Penang, Terengganu and Sepang F1), plus chat colors for headings, quotes and inline code. |
 | [docker-playground](https://github.com/aimanamri/docker-playground) | A local Docker playground for SQL and PySpark: MySQL, PostgreSQL, phpMyAdmin, pgAdmin and Jupyter. |
 | [yellow-taxi-trips-etl-data-engineering-project](https://github.com/aimanamri/yellow-taxi-trips-etl-data-engineering-project) | An ETL data engineering project on NYC yellow taxi trip data. |
 | [github-actions-commitizen-reference](https://github.com/aimanamri/github-actions-commitizen-reference) | Automated versioning with Commitizen and a bump workflow on GitHub Actions. |
